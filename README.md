@@ -15,10 +15,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/chandrika bijore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrika bijore" height="30" width="40" /></a>
 <a href="https://instagram.com/chandrika_bijore_3072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandrika_bijore_3072" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/chandrika bijore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chandrika bijore" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chandrika bijore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chandrika bijore" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/chandrika bijore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chandrika bijore" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/chandrika bijore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chandrika bijore" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/chandrika bijore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chandrika bijore" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@chandrikabijore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@chandrikabijore" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerearth.com/@chandrikabijore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@chandrikabijore" height="30" width="40" /></a> -->
 <a href="https://auth.geeksforgeeks.org/user/chandrikabijore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chandrikabijore" height="30" width="40" /></a>
 </p>
 
