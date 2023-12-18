@@ -2,19 +2,6 @@
 
 # Hello Visitor..!!❤️🔥 
 
-<!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">  -->
-
- 
-<!-- This is [Chandrika Bijore](https://www.linkedin.com/in/chandrika-bijore-772ab1227/), I am a final year student persuing Master of Computer Application (MCA) from International Institute of Professional Studies (IIPS)-DAVV. I'm excited to connect with professionals like you on LinkedIn. Allow me to introduce myself and share my background and aspirations in the field.
-
-I am having a proficient knowledge of programming in Java and Python. With a good understanding of Data Structures and Algorithms, I also have good knowledge of Web development.
-
-As a computer science student, I am driven by curiosity and creativity to find solutions through programming. and I enjoy solving challenging problems on platforms like Leetcode, where I have completed over 100 questions. 
-
-A self-learner, extremely motivated to learn and explore different technologies. an engineering student each day is a new start and a motivation to work harder. 
- 
-I have a keen interest in Web developmet and also have experience and looking for the opportunities in same So, if there's anything I could help you with, feel free to ring the bell, have a great day! -->
-
 I am [Chandrika Bijore](https://www.linkedin.com/in/chandrika-bijore-772ab1227/), I am a final year student persuing Master of Computer Application (MCA) from [International Institute of Professional Studies (IIPS)-DAVV](https://iips.edu.in/). I'm excited to connect with professionals like you on LinkedIn. Allow me to introduce myself and share my background and aspirations in the field.
 
 <p align="justify">I am having a proficient knowledge of programming in Java and Python. With a good understanding of Data Structures and Algorithms, I also have good knowledge of Web development.</p> 
@@ -26,6 +13,23 @@ I am [Chandrika Bijore](https://www.linkedin.com/in/chandrika-bijore-772ab1227/)
 <p align="justify">I have a keen interest in Web developmet and also have experience and looking for the opportunities in same So, if there's anything I could help you with, feel free to ring the bell, have a great day!</p>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunchoudhary1805" alt="tarunchoudhary1805" /></a> </p> -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+# My GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=your-username" alt="trophy" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Find out more about me & feel free to connect with me here:
 
