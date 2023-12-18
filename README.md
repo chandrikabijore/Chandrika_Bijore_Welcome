@@ -1,9 +1,77 @@
-<h1 align="center">Hi 👋, I'm Chandrika Bijore</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"> 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrikabijore&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikabijore" /> </p>
+
+# Hello Visitor..!!❤️🔥 
+
+<!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">  -->
+
+ 
+<!-- This is [Chandrika Bijore](https://www.linkedin.com/in/chandrika-bijore-772ab1227/), I am a final year student persuing Master of Computer Application (MCA) from International Institute of Professional Studies (IIPS)-DAVV. I'm excited to connect with professionals like you on LinkedIn. Allow me to introduce myself and share my background and aspirations in the field.
+
+I am having a proficient knowledge of programming in Java and Python. With a good understanding of Data Structures and Algorithms, I also have good knowledge of Web development.
+
+As a computer science student, I am driven by curiosity and creativity to find solutions through programming. and I enjoy solving challenging problems on platforms like Leetcode, where I have completed over 100 questions. 
+
+A self-learner, extremely motivated to learn and explore different technologies. an engineering student each day is a new start and a motivation to work harder. 
+ 
+I have a keen interest in Web developmet and also have experience and looking for the opportunities in same So, if there's anything I could help you with, feel free to ring the bell, have a great day! -->
+
+I am [Chandrika Bijore](https://www.linkedin.com/in/chandrika-bijore-772ab1227/), I am a final year student persuing Master of Computer Application (MCA) from [International Institute of Professional Studies (IIPS)-DAVV](https://iips.edu.in/). I'm excited to connect with professionals like you on LinkedIn. Allow me to introduce myself and share my background and aspirations in the field.
+
+<p align="justify">I am having a proficient knowledge of programming in Java and Python. With a good understanding of Data Structures and Algorithms, I also have good knowledge of Web development.</p> 
+
+<p align="justify">As a computer science student, I am driven by curiosity and creativity to find solutions through programming. and I enjoy solving challenging problems on platforms like Leetcode, where I have completed over 100 questions. </p>
+
+<p align="justify">A self-learner, extremely motivated to learn and explore different technologies. an engineering student each day is a new start and a motivation to work harder.</p>
+
+<p align="justify">I have a keen interest in Web developmet and also have experience and looking for the opportunities in same So, if there's anything I could help you with, feel free to ring the bell, have a great day!</p>
+
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunchoudhary1805" alt="tarunchoudhary1805" /></a> </p> -->
+
+## Find out more about me & feel free to connect with me here:
+
+[![Leetcode Badge](https://img.shields.io/badge/-tarunchoudhary1805-orange?style=flat-square&logo=Leetcode&logoColor=white&link=https://www.leetcode.com/Tarunchoudhary1805/)](https://leetcode.com/chandrikabijore/)
+[![Linkedin Badge](https://img.shields.io/badge/-tarunchoudhary1805-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarunchoudhary1805/)](https://www.linkedin.com/in/tarunchoudhary1805/)
+[![Instagram Badge](https://img.shields.io/badge/-_tarun_choudhary__-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_tarun_choudhary__/)](https://www.instagram.com/_tarun_choudhary__/)
+[![Gmail Badge](https://img.shields.io/badge/-tarunchoudhary1805@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarunchoudhary1805@gmail.com)](mailto:tarunchoudhary1805@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://tarunchoudhary1805.github.io/portfolio)](https://tarunchoudhary1805.github.io/portfolio)
+
+- 🔭 I’m currently working on [Blogxer](blogxer.onrender.com)
+
+- 🌱 I’m currently learning **DSA, MERN, React Native**
+
+- 👯 I’m looking to collaborate on **Open Source projects**
+
+- 🤝 I’m looking for help with **DSA and React Native**
+
+- 💬 Ask me about **Reactjs, MERN, DSA etc.**
+
+- 📫 How to reach me **tarunchoudhary1805@gmail.com**
+
+- 🧾 Resume : [Resume](https://drive.google.com/file/d/1y96_8-OADU5GLsuLecEwBa-3CeW0WGJs/view?usp=sharing)
+
+- ⚡ Fun fact **I love creating smooth web applications in reactjs.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
