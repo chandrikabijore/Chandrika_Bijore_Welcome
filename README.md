@@ -16,25 +16,13 @@ I am [Chandrika Bijore](https://www.linkedin.com/in/chandrika-bijore-772ab1227/)
 
 My Awesome Project
  
-[![LeetCode](https://img.shields.io/badge/-chandrikabijore-orange?logo=leetcode)](https://leetcode.com/chandrikabijore/)
-[![LinkedIn](https://img.shields.io/badge/-Chandrika Bijore-blue?logo=linkedin)](https://www.linkedin.com/in/your-username/)
+[![LeetCode Badge](https://img.shields.io/badge/-chandrikabijore-orange?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/chandrikabijore/)](https://leetcode.com/chandrikabijore/)
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Chandrika Bijore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandrika-bijore-772ab1227/)](https://www.linkedin.com/in/chandrika-bijore-772ab1227/)
+
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-purple?logo=instagram)](https://www.instagram.com/your-username/)
 [![Gmail](https://img.shields.io/badge/Gmail-Send%20Email-red?logo=gmail)](mailto:your.email@gmail.com)
 [![Website](https://img.shields.io/badge/Website-Visit%20Now-red?logo=firefox)](https://www.yourwebsite.com/)
----
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-white?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/chandrikabijore/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-white?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-username/)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-white?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/your-username/)
-[![Gmail](https://img.shields.io/badge/Gmail-Send%20Email-white?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-white?logo=firefox&logoColor=white&style=for-the-badge)](https://www.yourportfolio.com/)
-
-------
-This is a brief description of my awesome p
-
-
-
-
  
 
 ## Find out more about me & feel free to connect with me here:
