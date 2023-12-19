@@ -43,7 +43,25 @@ I am [Chandrika Bijore](https://www.linkedin.com/in/chandrika-bijore-772ab1227/)
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=chandrikabijore&show_icons=true&theme=tokyonight" alt="chandrikabijore" />
  
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrikabijore&show_icons=true&locale=en&layout=compact" alt="chandrikabijore"/>
- 
 </p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrikabijore&theme=tokyonight" alt="chandrikabijore" />
  
+### Libraries & Framework :
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+
+### Language :
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+
+<!-- GitHub Contributions -->
+[![Chandrika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chandrikabijore&bg_color=2f282c&color=fcfcfc&line=7eacc9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ 
+<p></p><br/>
