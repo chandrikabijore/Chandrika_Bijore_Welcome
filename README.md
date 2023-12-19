@@ -20,7 +20,7 @@ I am [Chandrika Bijore](https://www.linkedin.com/in/chandrika-bijore-772ab1227/)
 [![LinkedIn Badge](https://img.shields.io/badge/-ChandrikaBijore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandrika-bijore-772ab1227/)](https://www.linkedin.com/in/chandrika-bijore-772ab1227/)
 [![Instagram](https://img.shields.io/badge/-Chandrika_bijore_3072-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/chandrika_bijore_3072/)](https://www.instagram.com/chandrika_bijore_3072/)
 [![Gmail Badge](https://img.shields.io/badge/-chandrikabijore@gmail.com-c14438??style=flat-square&logo=Gmail&logoColor=white&link=mailto:chandrikabijore@gmail.com)](mailto:chandrikabijore@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://github.com/chandrikabijore)]([https://www.yourwebsite.com/](https://github.com/chandrikabijore))
+[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://github.com/chandrikabijore)]([https://github.com/chandrikabijore](https://github.com/chandrikabijore))
  
 - 🌱 I’m currently learning **Frameworks, Advanced java, Python**
 
