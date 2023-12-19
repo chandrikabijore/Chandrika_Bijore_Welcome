@@ -22,50 +22,23 @@ I am [Chandrika Bijore](https://www.linkedin.com/in/chandrika-bijore-772ab1227/)
 [![Gmail Badge](https://img.shields.io/badge/-chandrikabijore@gmail.com-c14438??style=flat-square&logo=Gmail&logoColor=white&link=mailto:chandrikabijore@gmail.com)](mailto:chandrikabijore@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://github.com/chandrikabijore)]([https://www.yourwebsite.com/](https://github.com/chandrikabijore))
  
-- 🔭 I’m currently working on [Blogxer](blogxer.onrender.com)
-
-- 🌱 I’m currently learning **DSA, MERN, React Native**
+- 🌱 I’m currently learning **Frameworks, Advanced java, Python**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 🤝 I’m looking for help with **DSA and React Native**
+- 🤝 I’m looking for help with **Web Development Project**
 
-- 💬 Ask me about **Reactjs, MERN, DSA etc.**
+- 💬 Ask me about **Web Development, Dsa, Java**
 
-- 📫 How to reach me **tarunchoudhary1805@gmail.com**
+- 📫 How to reach me **chandrikabijore@gmail.com**
 
-- 🧾 Resume : [Resume](https://drive.google.com/file/d/1y96_8-OADU5GLsuLecEwBa-3CeW0WGJs/view?usp=sharing)
+- 🧾 Resume : [Resume]( ) resume ki link add kr dena bn jay to..
 
 - ⚡ Fun fact **I love creating smooth web applications in reactjs.**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, Frameworks,**
-
-- 👨‍💻 All of my projects are available at [https://github.com/chandrikabijore](https://github.com/chandrikabijore)
-
+ -----
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chandrika bijore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrika bijore" height="30" width="40" /></a>
