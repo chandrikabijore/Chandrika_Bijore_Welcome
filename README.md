@@ -40,16 +40,10 @@ I am [Chandrika Bijore](https://www.linkedin.com/in/chandrika-bijore-772ab1227/)
 
 <p align="left">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=chandrikabijore&show_icons=true&theme=tokyonight" alt="chandrikabijore" /></p>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=chandrikabijore&show_icons=true&theme=tokyonight" alt="chandrikabijore" />
  
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrikabijore&show_icons=true&locale=en&layout=compact" alt="chandrikabijore" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrikabijore&show_icons=true&locale=en&layout=compact" alt="chandrikabijore"/>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrikabijore&" alt="chandrikabijore" /></p>
-----
-<p align="left">
-
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=tarunchoudhary1805&show_icons=true&theme=tokyonight" />
- 
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunchoudhary1805&show_icons=true&locale=en&layout=compact" alt="tarunchoudhary1805" />
 </p>
- <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunchoudhary1805&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrikabijore&theme=tokyonight" alt="chandrikabijore" />
+ 
