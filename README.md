@@ -62,21 +62,5 @@ I am [Chandrika Bijore](https://www.linkedin.com/in/chandrika-bijore-772ab1227/)
 
 <!-- GitHub Contributions -->
 [![Chandrika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chandrikabijore&bg_color=2f282c&color=fcfcfc&line=7eacc9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-# Hi there, I'm Octocat 👋
-
-![Octocat's GitHub stats](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=radical)
-
-## Achievements
-- **Arctic Code Vault Contributor**
-- **YOLO (You Only Live Once)**
-- **Pair Extraordinaire**
-- **Galaxy Brain**
-
-## Projects
-- [Project 1](https://github.com/octocat/project1)
-- [Project 2](https://github.com/octocat/project2)
-
-
+ 
 </br> 
