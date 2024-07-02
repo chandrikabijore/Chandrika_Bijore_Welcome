@@ -65,4 +65,4 @@ I am [Chandrika Bijore](https://www.linkedin.com/in/chandrika-bijore-772ab1227/)
 
 </br> 
 
-<pre>                              Show some ❤️ by starring some of the repositories! </pre>
+<pre>                             <h3>  Show some ❤️ by starring some of the repositories! </h3> </pre>
