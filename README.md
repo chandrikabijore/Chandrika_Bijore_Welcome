@@ -4,7 +4,7 @@
 
 I am [Chandrika Bijore](https://www.linkedin.com/in/chandrika-bijore-772ab1227/), I am a final year student persuing Master of Computer Application (MCA) from [International Institute of Professional Studies (IIPS)-DAVV](https://iips.edu.in/). I'm excited to connect with professionals like you on LinkedIn. Allow me to introduce myself and share my background and aspirations in the field.
 
-<p align="justify">I am having a proficient knowledge of programming in Java and Python. With a good understanding of Data Structures and Algorithms, I also have good knowledge of Web development.</p> 
+<p align="justify">I am having a proficient knowledge of programming in Java. With a good understanding of Data Structures and Algorithms, I also have good knowledge of Web development.</p> 
 
 <p align="justify">As a computer science student, I am driven by curiosity and creativity to find solutions through programming. and I enjoy solving challenging problems on platforms like Leetcode, where I have completed over 100 questions. </p>
 
