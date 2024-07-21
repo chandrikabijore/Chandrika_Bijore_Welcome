@@ -13,8 +13,8 @@ I am [Chandrika Bijore](https://www.linkedin.com/in/chandrika-bijore-772ab1227/)
 <p align="justify">I have a keen interest in Web developmet and also have experience and looking for the opportunities in same So, if there's anything I could help you with, feel free to ring the bell, have a great day!</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Find out more about me & feel free to connect with me here:
+ 
+<h2 align="center"> Find out more about me & feel free to connect with me here: <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
  
 [![LeetCode Badge](https://img.shields.io/badge/-chandrikabijore-orange?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/chandrikabijore/)](https://leetcode.com/chandrikabijore/)
 [![LinkedIn Badge](https://img.shields.io/badge/-ChandrikaBijore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandrika-bijore-772ab1227/)](https://www.linkedin.com/in/chandrika-bijore-772ab1227/)
