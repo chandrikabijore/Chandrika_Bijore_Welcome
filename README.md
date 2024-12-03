@@ -44,7 +44,18 @@ I am [Chandrika Bijore](https://www.linkedin.com/in/chandrika-bijore-772ab1227/)
  
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrikabijore&show_icons=true&locale=en&layout=compact" alt="chandrikabijore"/>
 </p>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrikabijore&theme=tokyonight" alt="chandrikabijore" />
+<!-- <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrikabijore&theme=tokyonight" alt="chandrikabijore" />
+ -->
+
+
+
+<!--
+ 
+<p align="left">
+    <a href="https://https://github.com/chandrikabijore/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prince Singh streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceSinghhub&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>  -->
  
 ### Libraries & Framework :
 
